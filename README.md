@@ -3,13 +3,16 @@
 <h2>👨‍💻 I’m currently working on these Cybersecurity Projects:</h2>
 
 - <b>Identity and Access Management</b>
-  - [Windows Active Directoty] (link)
+  - [Windows Active Directory] (link)
   
 - <b>Email Analysis</b>
   
-- <b>Security Information and Event Management</b>
-  - [Splunk](link here)
-  - [QRadar](link here)
+- <b>Vulnerability Management</b>
+   - [Nessus] (link)
+  
+- <b>Security Information and Event Management (SIEM)</b>
+  - [Splunk] (link here)
+  - [QRadar] (link here)
   
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](Sentinel link)
