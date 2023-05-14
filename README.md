@@ -3,8 +3,10 @@
 <h2>👨‍💻 I’m currently working on these Cybersecurity Projects:</h2>
 
 - <b>Identity and Access Management</b>
-  - [Windows Active Directory] (link)
-  
+  - [Provisioning Windows Active Directory] (link)
+  - [Creating Users in Active Directory with GUI] (link)
+  - [Creating Users in Active Directory with PowerShell] (link)
+
 - <b>Email Analysis</b>
   
 - <b>Vulnerability Management</b>
