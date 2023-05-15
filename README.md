@@ -3,9 +3,10 @@
 <h2>👨‍💻 I’m currently working on these Cybersecurity Projects:</h2>
 
 - <b>Identity and Access Management</b>
-  - [Provisioning Windows Server 2019] (link)
-  - [Creating Users in Active Directory with GUI] (link)
-  - [Creating Users in Active Directory with PowerShell] (link)
+  - [Provisioning Windows Server 2019](https://github.com/damilolaoa/windows-serv-prov/tree/main)
+<!--
+  - Creating Users in Active Directory with GUI
+  - Creating Users in Active Directory with PowerShell
 
 - <b>Email Analysis</b>
   
@@ -21,6 +22,7 @@
   - [JWipe (Disk Wiping Utility)](Disk wiping link)
   - [Active Directory Bulk User Creation](AD Bulk Creation link)
   - [FIM (File Integrity Monitor)](File Integrity Monitor link)
+-->
 
 <h2> 🤳 Connect with me:</h2>
 
